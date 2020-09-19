@@ -1,2 +1,3 @@
 # Cursos_Platzi
-Cursos Platizi
+
+Muestra las evidencias de los cursos tomados en Platzi
